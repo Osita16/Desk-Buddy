@@ -11,8 +11,8 @@
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-const char* ssid = "OSHII 9256";
-const char* password = "77777777";
+const char* ssid = "XXXXXXX";
+const char* password = "XXXXXXXXX";
 
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset_sec = 19800; // India
